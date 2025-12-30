@@ -1,3 +1,3 @@
 SHOW TABLES;
 
-USE your_database_name;
+USE alx_book_store;
