@@ -1,4 +1,1 @@
-
-
-SHOW  TABLES;
-
+SHOW TABLES;
